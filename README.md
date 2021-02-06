@@ -13,6 +13,10 @@ Stack:
 -   Prisma
 -   PostgreSQL
 
+Integrations:
+
+- Auth0
+
 Additional Front-end libraries:
 
 -   Ant Design
