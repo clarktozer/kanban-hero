@@ -9,9 +9,8 @@ Stack:
 -   GraphQL
 -   Node.js
 -   Apollo Client/Server
--   TypeGraphQL
 -   Prisma
--   PostgreSQL
+-   MongoDB
 
 Integrations:
 
