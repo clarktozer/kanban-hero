@@ -10,11 +10,12 @@ Stack:
 -   Node.js
 -   Apollo Client/Server
 -   Prisma
--   MongoDB
+-   TypeGraphQL
+-   PostgreSQL
 
 Integrations:
 
-- Auth0
+-   Auth0
 
 Additional Front-end libraries:
 
