@@ -21,3 +21,8 @@ Additional Front-end libraries:
 
 -   Ant Design
 -   React Router
+
+Maybe:
+
+Nextjs?
+Firebase?
