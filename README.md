@@ -13,10 +13,6 @@ Stack:
 -   TypeGraphQL
 -   PostgreSQL
 
-Integrations:
-
--   Auth0
-
 Additional Front-end libraries:
 
 -   Ant Design
@@ -24,5 +20,8 @@ Additional Front-end libraries:
 
 Maybe:
 
+Auth0?
 Nextjs?
 Firebase?
+Userfront?
+Ably?
